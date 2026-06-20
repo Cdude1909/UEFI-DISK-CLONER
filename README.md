@@ -6,7 +6,7 @@ A standalone UEFI application for forensic disk cloning, designed to operate at 
 
 [![Platform](https://img.shields.io/badge/License-MIT-red)]()
 [![Platform](https://img.shields.io/badge/Platform-UEFI-lightblue.svg)](https://uefi.org/)
-[![Status](https://img.shields.io/badge/Status-Production-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Status-BETA-yellow.svg)]()
 [![Website](https://img.shields.io/badge/Website-uefithesis.netlify.app-blue)](https://uefithesis.netlify.app)
 
 ---
@@ -14,7 +14,9 @@ A standalone UEFI application for forensic disk cloning, designed to operate at 
 ### ⚠️ DISCLAIMER :
 ```
 **IT DOES NOT DECRYPT THE ENCRYTPTED DISK [ BITLOCKER OR DISLOCKER or FILEVAULT ].
-It will create replica of the disk in whichever state it was before the Shutdown.**
+It will create replica of the disk in whichever state it was before the Shutdown.
+
+** IT IS IN BETA STAGE , Please raise Queries if issues found which I am sure of.
 ```
 
 ## 🚀 Overview
