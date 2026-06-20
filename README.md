@@ -39,9 +39,16 @@ The UEFI Disk Cloner is a forensic utility that executes as a `.efi` binary dire
 - **Firmware-Safe I/O Scheduling**: Prevents hardware timeouts, ensuring reliable operation on slow or failing drives.
 - **Cross-Platform Compatibility**: Works on any x86_64 system with UEFI firmware, including Intel MacBooks.
 - **Real-World Validation**: Successfully deployed in over 21 real forensic investigations.
-
+- **Partial Partition Cloning**: You can Clone partitions too but GPT preservation is lost and thus rest disk will be unallocated. Though, It can be helpful sometimes ;)
 ---
 
+## STEPS:
+```
+1) PLACE it in EFI folder of Bootable USB : /efi/BOOT/BOOTx64.efi
+2) Boot from USB, My efi will load automatically (For secure boot, check [Ventoy-efi](https://www.ventoy.net/en/index.html)
+3) Select Source & Destination disk, ⚠️ MAKE SURE DESTINATION DISK IS CORRECTLY SELECTED AS IT WILL BE OVERWRITTEN!
+4) You can also select Hashing method and calculate hash to verify if full disk is cloned.
+```
 ## 🛠️ Basic Architecture
 <img width="648" height="592" alt="x" src="https://github.com/user-attachments/assets/9e4fed7d-cc3e-4985-9ee5-7c09b8f8e164" />
 
