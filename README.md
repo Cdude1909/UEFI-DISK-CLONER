@@ -16,7 +16,7 @@ A standalone UEFI application for forensic disk cloning, designed to operate at 
 **IT DOES NOT DECRYPT THE ENCRYTPTED DISK [ BITLOCKER OR DISLOCKER or FILEVAULT ].
 It will create replica of the disk in whichever state it was before the Shutdown.
 
-** IT IS IN BETA STAGE , Please raise Queries if issues found which I am sure of.
+** IT IS IN BETA STAGE , Please raise Queries if issues found.
 ```
 
 ## 🚀 Overview
