@@ -7,7 +7,7 @@ A standalone UEFI application for forensic disk cloning, designed to operate at 
 [![Platform](https://img.shields.io/badge/License-MIT-red)]()
 [![Platform](https://img.shields.io/badge/Platform-UEFI-lightblue.svg)](https://uefi.org/)
 [![Status](https://img.shields.io/badge/Status-BETA-yellow.svg)]()
-[![Website](https://img.shields.io/badge/Website-uefithesis.netlify.app-blue)](https://uefithesis.netlify.app)
+
 
 ---
 
