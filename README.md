@@ -4,7 +4,8 @@
 
 A standalone UEFI application for forensic disk cloning, designed to operate at the firmware level. This tool enables bit-perfect imaging of storage devices in air-gapped, locked, or tamper-sensitive environments without requiring any operating system credentials.
 
-[![Platform](https://img.shields.io/badge/Platform-UEFI-lightgrey.svg)](https://uefi.org/)
+[![Platform](https://img.shields.io/badge/License-MIT-red)]()
+[![Platform](https://img.shields.io/badge/Platform-UEFI-lightblue.svg)](https://uefi.org/)
 [![Status](https://img.shields.io/badge/Status-Production-brightgreen.svg)]()
 [![Website](https://img.shields.io/badge/Website-uefithesis.netlify.app-blue)](https://uefithesis.netlify.app)
 
