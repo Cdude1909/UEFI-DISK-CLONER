@@ -1,6 +1,8 @@
 # UEFI Disk Cloner
 
-**OS-Free Data Acquisition Utility**
+
+<img width="440" height="190" alt="logo2" src="https://github.com/user-attachments/assets/7720647d-66d9-4302-9143-7a4f614fa635" />
+
 
 A standalone UEFI application for forensic disk cloning, designed to operate at the firmware level. This tool enables bit-perfect imaging of storage devices in air-gapped, locked, or tamper-sensitive environments without requiring any operating system credentials.
 
