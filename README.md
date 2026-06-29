@@ -42,6 +42,11 @@ The UEFI Disk Cloner is a forensic utility that executes as a `.efi` binary dire
 - **Cross-Platform Compatibility**: Works on any x86_64 system with UEFI firmware, including Intel MacBooks.
 - **Real-World Validation**: Successfully deployed in over 21 real forensic investigations.
 - **Partial Partition Cloning**: You can Clone partitions too but GPT preservation is lost and thus rest disk will be unallocated. Though, It can be helpful sometimes ;)
+
+
+## Working [Cloning | Hashing | Result]
+<img width="720" height="600" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/95f36946-270f-460a-b78b-b0ef9e2b7e10" />
+
 ---
 
 ## STEPS:
@@ -53,4 +58,6 @@ The UEFI Disk Cloner is a forensic utility that executes as a `.efi` binary dire
 ```
 ## 🛠️ Basic Architecture
 <img width="648" height="592" alt="x" src="https://github.com/user-attachments/assets/9e4fed7d-cc3e-4985-9ee5-7c09b8f8e164" />
+
+
 
