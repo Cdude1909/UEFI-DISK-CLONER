@@ -1,4 +1,3 @@
-# UEFI Disk Cloner
 
 
 <img width="440" height="190" alt="logo2" src="https://github.com/user-attachments/assets/7720647d-66d9-4302-9143-7a4f614fa635" />
